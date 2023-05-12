@@ -1,0 +1,45 @@
+[
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS8xMCAgMTI0LjZLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00343918-bcrtrqpgtc-portrait.jpg",
+        "name":"The Kerala Story",
+        "genre":"Drama",
+        "location":"Mumbai/India",
+        "certification":"A"
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MjIzLjRLIGxpa2Vz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00122562-cevyywlfvl-portrait.jpg",
+        "name":"Fast X",
+        "genre":"Action/Adventure/Crime/Thriller",
+        "location":"Mumbai",
+        "certification":"U/A"
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MjYuOEsgbGlrZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00312966-pknwdghdwb-portrait.jpg",
+        "name":"IB71",
+        "genre":"Action/Period/Thriller",
+        "location":"Mumbai",
+        "certification":"U/A"
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICAyOS41SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00310794-nmwukaluxy-portrait.jpg",
+        "name":"Guardian of the galaxy Vol 3",
+        "genre":"Action/Adventure/Comedy/Sci-Fi",
+        "location":"Mumbai/Pune/Indore/Udaipur",
+        "certification":"U/A"
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MTAuN0sgbGlrZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00355873-ykrbqmsrdb-portrait.jpg",
+        "name":"Chatrapathi (2023)",
+        "genre":"Action/Drama",
+        "location":"Mumbai",
+        "certification":"A"
+    },
+    {
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4yLzEwICAyNS44SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349309-ynqvrxxagk-portrait.jpg",
+        "name":"Evil Dead Rise",
+        "genre":"Horror",
+        "location":"Mumbai",
+        "certification":"A"
+    }
+    
+]
